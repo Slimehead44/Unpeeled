@@ -1,4 +1,5 @@
-Change things
+List of commands
+Change thing
 
 Colour: "switch my color to purple" — also red, blue, green, pink, black, white, orange, yellow. Switch / change / set / make / turn all work.
 Colour code: "switch my color code" then say the 3 numbers one at a time, like "one", "five", "nine" — 0 to 9 each.
